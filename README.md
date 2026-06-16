@@ -1,5 +1,12 @@
 ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,go,rust,python,docker,k8s)](https://skillicons.dev)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" />&nbsp;
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go" />&nbsp;
+  <img src="https://img.shields.io/badge/Rust-DEA584?logo=rust&logoColor=white" alt="Rust" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />&nbsp;
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
 
 ### 📊 GitHub Stats
 <p align="center">
